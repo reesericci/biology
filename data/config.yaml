@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Reese Armstrong
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -17,13 +17,9 @@ search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
-description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+description: A website for 9th grade biology things.
 page_title:
-  "🪴 Quartz 3.3"
+  "biology.reeseric.ci"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+  - link_name: Website
+    link: https://reeseric.ci

@@ -1,27 +1,18 @@
 ---
-title: 🪴 Quartz 3.
+title: Home
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Welcome to `biology.reeseric.ci`, the On-Line Inter-Active Review Notebook for 9th grade biology at LASA.
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+Choose your own adventure:
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+[1st semester notebook →](/notes/s1)
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+2nd semester notebook →
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-
+<div style="display: flex; gap: 10px;">
+<p><a href="http://www.anybrowser.org/campaign/"><img src="https://www.anybrowser.org/campaign/bvgraphics/ab8.gif" width="100" alt="Viewable With Any Browser" /></a></p>
+<p><a href="http://www.anybrowser.org/campaign/"><img src="https://www.anybrowser.org/campaign/bvgraphics/ab-ms-star-en.gif" width="100" alt="Viewable With Any Browser" /></a></p>
+</div>
